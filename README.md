@@ -1,6 +1,6 @@
 # Website Modal Menu
 
-Practing with modal menus
+Modal Menu uses animation to slide out from the left side of the screen when menu icon is pressed. Disappears when close icon is pressed. 
 
 ## Screenshot
 ![Modal Screen Shot](/images/modal.jpg)
